@@ -21,9 +21,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Andhika Eka's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhikaeka3333333&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikaeka3333333&layout=compact&theme=radical)
 
-## 📫 Let's Connect
-
-Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/andhika-eka-santosa-852b25281/))
-Thanks for visiting my profile!
-
-<!-- You can add more sections if needed -->
