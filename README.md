@@ -3,7 +3,7 @@
 >   ![Hi there!](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=40&duration=3000&pause=1000&random=false&width=435&height=60&lines=Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Andhika+%F0%9F%98%8E;Have+a+nice+day!+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
 <br>  I am a developer from Indonesia! <img src="https://img.icons8.com/color/64/null/indonesia-circular.png" alt="Indonesia flag" width="12" height="12" />
 <br>  Currently a __Android and Web Developer__ student working on some projects.<br>
-<br>  <img src="https://komarev.com/ghpvc/?username=then77&color=green" alt="Github profile view"> <a href="mailto:hey@realzzy.xyz"><img src="https://img.shields.io/badge/andhikaeka311@gmail.com-f54242?logo=Gmail&logoColor=white"/></a>
+<br>  <img src="https://komarev.com/ghpvc/?username=andhikaeka3333333&color=green" alt="Github profile view"> <a href="mailto:andhikaeka311@gmail.com"><img src="https://img.shields.io/badge/andhikaeka311@gmail.com-f54242?logo=Gmail&logoColor=white"/></a>
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you'll find a collection of my projects, contributions, and interests.
 
