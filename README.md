@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Dart, Java, JavaScript, C#
+- **Languages:** Dart, Java, JavaScript, C#, PHP
 - **Frameworks:** Flutter, Laravel, React
 - **Tools:** Android Studio, Visual Studio Code, Git, PostMan
 - **Databases:** MySQL
