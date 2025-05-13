@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 💻 I enjoy working on open-source projects and collaborating with the community.
 - 🌐 I'm proficient in multiple programming languages including Dart, PHP, JavaScript, and Java.
 - 🚀 I'm always eager to learn new technologies and improve my skills.
-- 📫 How to reach me: andhikaeka311@gmail.com andhika.rf.gd
+- 📫 How to reach me: andhikaeka311@gmail.com https://andhikaeka3333333.github.io/portofolio
 
 ## 🔧 Technologies & Tools
 
